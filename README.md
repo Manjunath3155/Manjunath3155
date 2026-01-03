@@ -10,6 +10,3 @@ I am a student developer with a strong interest in AI driven applications and mo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manjunath3155&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
