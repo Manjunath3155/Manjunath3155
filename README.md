@@ -10,7 +10,7 @@ I am a student developer with a strong interest in AI driven applications and mo
 
 ## 🏆 Hacktoberfest Supercontributor
 
-![Hacktoberfest Supercontributor](https://assets.hacktoberfest.com/badges/hacktoberfest2025_supercontributor.png)
+[![An image of @manjunath3155's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manjunath3155)](https://holopin.io/@manjunath3155)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
